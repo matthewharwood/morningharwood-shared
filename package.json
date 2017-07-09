@@ -1,0 +1,19 @@
+{
+  "name": "morningharwood-shared",
+  "version": "0.0.2",
+  "description": "A shared directory of utils that join morningharwood client and server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/morningharwood-shared.git"
+  },
+  "author": "matthewharwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/morningharwood-shared/issues"
+  },
+  "homepage": "https://github.com/www.github.com/morningharwood-shared#readme"
+}
